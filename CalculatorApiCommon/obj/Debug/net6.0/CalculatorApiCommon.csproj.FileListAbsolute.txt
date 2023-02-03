@@ -1,0 +1,12 @@
+C:\Dev\Self-Development\CalculatorApi\CalculatorApiCommon\bin\Debug\net6.0\CalculatorApiCommon.deps.json
+C:\Dev\Self-Development\CalculatorApi\CalculatorApiCommon\bin\Debug\net6.0\CalculatorApiCommon.dll
+C:\Dev\Self-Development\CalculatorApi\CalculatorApiCommon\bin\Debug\net6.0\CalculatorApiCommon.pdb
+C:\Dev\Self-Development\CalculatorApi\CalculatorApiCommon\obj\Debug\net6.0\CalculatorApiCommon.csproj.AssemblyReference.cache
+C:\Dev\Self-Development\CalculatorApi\CalculatorApiCommon\obj\Debug\net6.0\CalculatorApiCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Self-Development\CalculatorApi\CalculatorApiCommon\obj\Debug\net6.0\CalculatorApiCommon.AssemblyInfoInputs.cache
+C:\Dev\Self-Development\CalculatorApi\CalculatorApiCommon\obj\Debug\net6.0\CalculatorApiCommon.AssemblyInfo.cs
+C:\Dev\Self-Development\CalculatorApi\CalculatorApiCommon\obj\Debug\net6.0\CalculatorApiCommon.csproj.CoreCompileInputs.cache
+C:\Dev\Self-Development\CalculatorApi\CalculatorApiCommon\obj\Debug\net6.0\CalculatorApiCommon.dll
+C:\Dev\Self-Development\CalculatorApi\CalculatorApiCommon\obj\Debug\net6.0\refint\CalculatorApiCommon.dll
+C:\Dev\Self-Development\CalculatorApi\CalculatorApiCommon\obj\Debug\net6.0\CalculatorApiCommon.pdb
+C:\Dev\Self-Development\CalculatorApi\CalculatorApiCommon\obj\Debug\net6.0\ref\CalculatorApiCommon.dll
